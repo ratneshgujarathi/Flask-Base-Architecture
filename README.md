@@ -37,4 +37,4 @@
     - app - files that are related to app which are not public 
     - public - files that are publicly visible such as post images, videos
 
-**create runserver.py which has flask run server**
+> **create runserver.py which has flask run server**
