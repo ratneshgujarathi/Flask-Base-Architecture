@@ -8,7 +8,8 @@
 
 **First create virtual environment of python using virtualenv or any virtual environment library**
 
-''' virtaualenv venv '''
+<pre><code>virtualenv venv
+</code></pre>
 
 > **Then create a new folder and create a new project**
 
